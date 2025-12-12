@@ -107,3 +107,31 @@ Throughout the course, the following skills and competencies were strengthened:
 
 ## 📁 Repository Structure  
 
+
+---
+
+## 🎥 Video Overview (3–5 Minutes)
+A guided walkthrough is included at the beginning of this repository and covers:
+
+- The purpose of the analysis  
+- Slides summarizing the 3-minute story  
+- Python workflow demonstration  
+- Power BI dashboard highlights  
+- Final recommendations for decision-makers  
+
+---
+
+## 🔗 Links  
+- **E-Portfolio Page:** https://drch-35.github.io  
+- **OM 621 Subpage (if applicable):** /om621_assignments  
+- **Slides & Presentation Files:** See `/assets` or `/pbi` as applicable  
+
+---
+
+## 📦 Final Notes  
+This repository demonstrates a fully integrated analytics project—from narrative framing to technical execution and visualization. It reflects an ability to:
+
+- Communicate insights clearly  
+- Build robust analytical pipelines  
+- Use data to inform strategic decision-making  
+
